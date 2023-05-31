@@ -1,9 +1,9 @@
 How to use:
 
-Open your firefox root directory (Type about:profiles in URL Bar)
+Step 1: Open your firefox root directory (Type about:profiles in URL Bar)
 
-Create folder named "chrome" (without the quotations)
+Step 2: Create folder named "chrome" (without the quotations)
 
-Add userChrome.css inside the folder
+Step 3: Add userChrome.css inside the folder
 
-Restart firefox
+Step 4: Restart firefox
