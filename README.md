@@ -1,1 +1,1 @@
-Adds icons and tab separator to firefox and firefox based browsers
+Adds icons and tab separator to Firefox and Firefox based browsers
