@@ -8,8 +8,12 @@ How to use:
 
 Step 1: Type about:config in the URL bar.
 
-Step 2: Search for tooolkit.legacyUserProfileCustomizations.stylesheets 
+Step 2: Search for tooolkit.legacyUserProfileCustomizations.stylesheets (Note: On librewolf you can enable this in browser settings under librewolf section)
 
-Step 3:
+Step 3: Open your Firefox root directory folder (Type about:profiles in URL Bar) 
+  
+Step 4: Add the chrome folder inside the root directory folder.
+  
+Step 5: Restart Firefox
 
 
